@@ -46,14 +46,14 @@
 <details>
   <summary>My Profile Stats</summary>
   <br/>
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=rxyhn&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&icon_color=36393D&title_color=d9d7d6&text_color=d9d7d6"/>
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rxyhn&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=tokyonight"/>
   <br/>
 </details>
 
 <details> 
   <summary>My Most Used Languages</summary>
   <br/>
-          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=rxyhn&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"/>
+          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&hide_border=true&theme=tokyonight"/>
   <br/>
 </details>
     </samp>
